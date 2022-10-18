@@ -44,6 +44,7 @@
 - 🧔‍♂️ Pronouns: he/him
 - 🌐 Find me on
   - [GitLab](https://gitlab.com/HarHarLinks)
+  - [Codeberg](https://codeberg.org/HarHarLinks)
   - [LinkedIn](https://www.linkedin.com/in/kim-sebastian-brose/)
 
 ![Kim Brose's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarHarLinks&show_icons=true&count_private=true)
