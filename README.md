@@ -15,7 +15,7 @@ I maintain or frequently contribute to these projects:
   - [matrix-webhook-receiver](https://github.com/HarHarLinks/matrix-webhook-receiver): converts webhook JSON into matrix messages according to your Jinja2 specification
   - [wireguard-rofi-waybar](https://github.com/HarHarLinks/wireguard-rofi-waybar): show active [wireguard VPN](https://www.wireguard.com) connections ([NetworkManager](https://wiki.gnome.org/Projects/NetworkManager)) in a custom [waybar](https://github.com/Alexays/Waybar) module and manage them using rofi
   - [matrix-reminder-bot](https://github.com/anoadragon453/matrix-reminder-bot/): maintainer, [Matrix Community Summit 2022 Talk](https://cfp.summit2022.matrixmeetup.de/matrix-summit-conference-2022/talk/WTWWZ8/)
-  - [simplematrixbotlib](https://github.com/i10b/simplematrixbotlib): contributed E2EE, extensible config, etc
+  - [simplematrixbotlib](https://codeberg.org/imbev/simplematrixbotlib/): contributed E2EE, extensible config, etc
   - [matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy): contributed matrix-hookshot role, misc. documentation and improvements
   - [matrix-hookshot](https://github.com/matrix-org/matrix-hookshot): contributed improvements for GitLab event formatting, documentation, widget
   - [time-to-matrix-git](https://aur.archlinux.org/packages/time-to-matrix-git): [AUR package](https://aur.archlinux.org) maintainer for [ttm](https://gitlab.com/etke.cc/ttm) (time-to-matrix)
