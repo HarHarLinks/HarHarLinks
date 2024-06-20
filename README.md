@@ -1,14 +1,14 @@
 - ‍🧑‍💻 Software Engineer
 - 🎓 M.Sc. Computer Science (imaging, video coding, computer graphics, visualization, HPC)
 - 🤔 Interests
-  - [Matrix.org](https://matrix.org) ecosystem
+  - [Matrix.org](https://matrix.org) ecosystem, member of the Matrix.org Foundation governing board, organiser of [Matrix Community Events](https://matrix.to/#/#community-events:matrix.org)
   - Media formats and encoding
   - Privacy, self-hosting
-  - FOSS, open standards, libre
+  - FLOSS, open standards
   - IoT, (home) automation, soldering
   - Music, DJing, audio engineering
   - Video games, modding
-- 🐧 I use [Arch](https://archlinux.org) BTW with [sway](https://swaywm.org), also [Debian](https://www.debian.org) on my servers and looking into [NixOS](https://nixos.org)
+- 🐧 I use [Arch](https://archlinux.org) BTW with [sway](https://swaywm.org), and [Debian](https://www.debian.org) on my servers
 - <details><summary>🛠 Projects</summary>
 
 I maintain or frequently contribute to these projects:
@@ -39,10 +39,10 @@ I maintain or frequently contribute to these projects:
   - [Arduino](https://www.arduino.cc), [ESP8266](https://espressif.com/en/products/modules/esp8266), [Tasmota](https://github.com/arendst/tasmota)
   - [Home Assistant](https://www.home-assistant.io), MQTT
   - [Django](https://www.djangoproject.com), [Flask](https://flask.palletsprojects.com/en/2.2.x/), [FastAPI](https://fastapi.tiangolo.com)
-  - Webhooks, REST
+  - REST, Webhooks
   - PyTorch, Torch-TensorRT, TensorFlow, SOL
   </details>
-- tbd: my dotfiles
+- 🗣️ Sometimes I give talks or workshops: [MCS '22](https://cfp.summit2022.matrixmeetup.de/matrix-summit-conference-2022/speaker/N9HLPK/), [FOSDEM '23](https://archive.fosdem.org/2023/schedule/event/widgets_sovereign_workplace_german_public_sector/), [FrOSCon 18 ('23)](https://programm.froscon.org/2023/speakers/1858.html), [MCS '23](https://summit2023.matrixmeetup.de/conference/speaker/EPXBEW/), [37c3 ('23)](https://events.ccc.de/congress/2023/hub/en/assembly/matrix/), [GPN22 ('24)](https://cfp.gulas.ch/gpn22/speaker/3CSDJA/)
 - 💬 I speak German, English, (French, Dutch)
 - 🧔‍♂️ Pronouns: he/him
 - 🌐 Find me on
