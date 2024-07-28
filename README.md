@@ -1,4 +1,4 @@
-- ‍🧑‍💻 Software Engineer
+- ‍🧑‍💻 Senior Software Engineer, Systems and Solutions Architect
 - 🎓 M.Sc. Computer Science (imaging, video coding, computer graphics, visualization, HPC)
 - 🤔 Interests
   - [Matrix.org](https://matrix.org) ecosystem, member of the Matrix.org Foundation governing board, organiser of [Matrix Community Events](https://matrix.to/#/#community-events:matrix.org)
